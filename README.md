@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![logo](https://github.com/saurabhkale11/saurabhkale11/blob/main/DALL%C2%B7E%202025-01-03%2009.15.24%20-%20A%20professional%20scene%20of%20a%20modern%20software%20engineer's%20workspace%2C%20with%20a%20personalized%20nameplate%20on%20the%20desk%20that%20reads%20'Saurabh%20Kale'.%20The%20environment%20i.webp)
-
 <h1 align="center">Hi 👋, I'm Saurabh Kale</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
