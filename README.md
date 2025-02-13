@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkale11&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkale11" /> </p>
 
-- 🌱 I’m currently completed **java full stack development course on simplilearn platform.**
+- 🌱 I’m recently completed **BE COMPUTER ENGINEERING.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhkale11](https://github.com/saurabhkale11)
 
