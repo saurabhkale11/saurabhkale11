@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhkale11](https://github.com/saurabhkale11)
 
-- 💬 Ask me about **HTML5, CSS3, JAVASCRIPT, CORE-JAVA, ADV-JAVA, MYSQL.**
+- 💬 Ask me about **HTML5, CSS3, JAVASCRIPT, REACT-JS CORE-JAVA, SPRINGBOOT, MYSQL.**
 
 - 📫 How to reach me **saurabhkale1010@gmail.com**
 
